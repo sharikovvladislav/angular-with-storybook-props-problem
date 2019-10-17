@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'without-ivy-with-latest-storybook';
+
+  keks = '123';
 }
